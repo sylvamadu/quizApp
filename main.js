@@ -87,7 +87,7 @@ function showScores(){
         <h1>Quiz Completed</h1>
         <h2 id="score">You Scored: ${quiz.score} of ${quiz.questions.length} </h2>
         <div class="quiz-repeat">
-            <a href="Startquiz.html">Take Quiz Again</a>
+            <a href="index.html">Take Quiz Again</a>
         </div>
         `;
         let quizElement = document.getElementById("contentt");
